@@ -2,17 +2,21 @@
 
 # Bank Marketing Campaign Analysis
 
-This project analyzes data from direct marketing campaigns of a Portuguese bank, aiming to provide a structured end-to-end workflow in **data preprocessing, exploratory analysis, and statistical modeling**.  
+## 1. Objective  
+Identify the key factors that most influence customers’ acceptance of **term deposit offers** in bank telemarketing campaigns.  
 
-## Main Contents
-- **Data Cleaning**: handling missing values, treating outliers, and preparing variables.  
-- **Exploratory Data Analysis (EDA)**: univariate, bivariate, and multivariate exploration.  
-- **Statistical Methods**:  
-  - Spearman correlation  
-  - Cochran-Armitage trend test  
+## 2. Project Overview  
+This project applies data cleaning, exploratory analysis, and advanced statistical methods to uncover customer behavior patterns and support strategic decision-making.  
+
+## 3. Main Steps  
+- **Data Cleaning**: handling missing values, outlier treatment, and variable preparation.  
+- **Exploratory Data Analysis (EDA)**: univariate, bivariate, and multivariate analysis.  
+- **Statistical Methods**: Spearman correlation and Cochran-Armitage trend test.  
 - **Predictive Metrics**: Weight of Evidence (WoE) and Information Value (IV).  
-- **Collinearity Analysis**: variable selection and reduction.  
+- **Collinearity Analysis**: feature evaluation and selection.  
 
-## Objective
-The goal of this project is not to build predictive models, but to **explore data quality, identify key relationships, and apply advanced statistical techniques** to support strategic decision-making.  
+## 4. Dataset  
+The analysis is based on the **[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)**, which contains information on Portuguese bank telemarketing campaigns, including client demographics, financial attributes, and campaign details.  
 
+## 5. Goal  
+Provide a structured workflow, from raw data to insights, to help optimize marketing strategies, improve conversion rates, and guide future decision-making.  
