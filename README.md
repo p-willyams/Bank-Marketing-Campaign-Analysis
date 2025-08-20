@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Análise" src="https://github.com/user-attachments/assets/0dce7f2f-00d4-469c-9d22-ebf0d5897ddf" />
+![Análise](https://github.com/user-attachments/assets/de956fa5-1eab-4604-8cf9-ccd53731b492)
+
 # Bank Marketing Campaign Analysis
 
 This project analyzes data from direct marketing campaigns of a Portuguese bank, aiming to provide a structured end-to-end workflow in **data preprocessing, exploratory analysis, and statistical modeling**.  
